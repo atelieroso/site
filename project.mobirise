@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Atelier OSO (novo)",
-    "currentPage": "projetos.html",
+    "currentPage": "Povoa.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -14943,7 +14943,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white\" href=\"vinhadafonte.html\" data-app-placeholder=\"Type Text\">início | back<br></a>\n                    <a class=\"btn btn-black-outline\" href=\"projetos.html\" data-app-placeholder=\"Type Text\">projectos | projects<br></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white\" href=\"marreiros.html\" data-app-placeholder=\"Type Text\">início | back<br></a>\n                    <a class=\"btn btn-black-outline\" data-app-placeholder=\"Type Text\" href=\"projetos.html\">projectos | projects<br></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_sourceTheme": "mobirise4",
           "_cid": "us2j51x9lR",
           "_anchor": "content8-no",
